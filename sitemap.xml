@@ -9,4 +9,6 @@
   <url><loc>https://aktuell.villa-borg.com/gastronomie/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://aktuell.villa-borg.com/gastronomie/brasserie-monkel.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://aktuell.villa-borg.com/gastronomie/bc-tankstelle-remich.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://aktuell.villa-borg.com/politik.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://aktuell.villa-borg.com/service/</loc><changefreq>monthly</changefreq></url>
 </urlset>
